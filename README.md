@@ -1,2 +1,5 @@
-# resources
-resources
+# static resources
+ ⚠ 这不是一个代码库
+> 个人的一个静态资源仓库(主要存一下杂七杂八的内容,非不健康内容)
+- 软件上传
+- 定时任务数据
