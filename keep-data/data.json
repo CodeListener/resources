@@ -1,117 +1,84 @@
 {
-  "date": 1679734710673,
+  "date": 1679737106583,
   "bestRecordInfo": {
     "title": "最佳记录",
-    "color": "#24C789",
-    "type": "sport",
     "list": [
       {
         "name": "最远距离",
         "unit": "公里",
-        "icon": "https://static1.keepcdn.com/infra-cms/2021/8/12/10/36/79214849d54a4c4df7830379af74a37bbe952e55_96x96_ac491a166db1d0ba3193de3383e137beca20e718.png",
         "value": "10.08",
         "date": null,
-        "schema": "keep://runninglogs/597ded1115e66e1988cae0bb_9223370387268970407_rn",
         "defaultItem": false
       },
       {
         "name": "最长时间",
         "unit": null,
-        "icon": "https://static1.keepcdn.com/infra-cms/2021/8/12/10/44/79214849d54a4c4df7830379af74a37bbe952e55_96x96_36cf428fbc60ca3b457fcfeb32a33b8c07748976.png",
         "value": "00:55:47",
         "date": null,
-        "schema": "keep://runninglogs/597ded1115e66e1988cae0bb_9223370404804053107_rn",
         "defaultItem": false
       },
       {
         "name": "最快配速",
         "unit": null,
-        "icon": "https://static1.keepcdn.com/infra-cms/2021/8/12/10/42/79214849d54a4c4df7830379af74a37bbe952e55_96x96_dfeb06d14eed395e3798c46d27005f800d8515b5.png",
         "value": "03'58''",
         "date": null,
-        "schema": "keep://runninglogs/597ded1115e66e1988cae0bb_9223370367572373607_rn",
         "defaultItem": false
       },
       {
         "name": "5 公里最快时间",
         "unit": null,
-        "icon": "https://static1.keepcdn.com/infra-cms/2021/8/12/10/26/79214849d54a4c4df7830379af74a37bbe952e55_96x96_b1cee2d7215912612dde4d27e0fc5f0e09eca881.png",
         "value": "00:22:17",
         "date": null,
-        "schema": "keep://runninglogs/597ded1115e66e1988cae0bb_9223370369812560507_rn",
         "defaultItem": false
       },
       {
         "name": "10 公里最快时间",
         "unit": null,
-        "icon": "https://static1.keepcdn.com/infra-cms/2021/8/12/10/27/79214849d54a4c4df7830379af74a37bbe952e55_96x96_66063395907900719b0c640ad11d9b714e4ae7bb.png",
         "value": "00:47:20",
         "date": null,
-        "schema": "keep://runninglogs/597ded1115e66e1988cae0bb_9223370359451918207_rn",
         "defaultItem": false
       },
       {
         "name": "半马最快时间",
         "unit": null,
-        "icon": "https://static1.keepcdn.com/infra-cms/2021/8/12/10/28/79214849d54a4c4df7830379af74a37bbe952e55_96x96_f2be822514900872314fdee027797a317cf46aec.png",
         "value": "--",
         "date": null,
-        "schema": "",
         "defaultItem": true
       },
       {
         "name": "全马最快时间",
         "unit": null,
-        "icon": "https://static1.keepcdn.com/infra-cms/2021/8/12/10/29/79214849d54a4c4df7830379af74a37bbe952e55_96x96_f5ca5814b45fbaf920e1e8d34344278c96009b5f.png",
         "value": "--",
         "date": null,
-        "schema": "",
         "defaultItem": true
       }
     ]
   },
   "levelInfo": {
     "title": "跑步等级",
-    "schema": "https://m.gotokeep.com/glory-page/badge/detail?fullscreen=true&userId=597ded1115e66e1988cae0bb&badgeId=6278b93d66f9b6000114f0de&curOrder=9&badgeType=milestone",
     "currentLevel": 0,
     "currentLevelName": "跑步等级",
-    "nextThreshold": 0,
     "nextThresholdText": "再累计 2517.26 公里可达成 Lv.10",
-    "totalValue": null,
     "progress": 49,
-    "currentLevelPicture": "https://static1.keepcdn.com/glory-cms/2022/5/9/1652080793046ojzc87ku_720x720.png",
     "showMsg": "已达成",
     "doneMaxGrade": false,
     "grade": "Lv.9"
   },
   "recordInfo": {
     "title": "跑步记录",
-    "failoverTitle": null,
     "list": [
       {
         "title": "今天",
         "logInfos": [
           {
-            "id": "597ded1115e66e1988cae0bb_9223370357156288107_rn",
             "type": "running",
             "name": "户外跑步 5.17 公里",
-            "schema": "keep://runninglogs/597ded1115e66e1988cae0bb_9223370357156288107_rn",
-            "workoutFinishTimes": 0,
             "duration": 1502,
             "distance": 5171,
-            "steps": 0,
             "calorie": 385,
-            "doubtful": false,
-            "subType": "normal",
-            "trainingCourseType": null,
-            "icon": "https://static1.keepcdn.com/infra-cms/2021/8/20/23/32/79214849d54a4c4df7830379af74a37bbe952e55_72x72_e96c9ac7767c059024297f8120c43070edbae68a.png",
             "averagePace": 290.4443864587253,
             "averageSpeed": 12.3,
-            "doneDate": "2023-03-24T22:54:47.000Z",
-            "trackWaterMark": "https://static1.keepcdn.com/1679698490460_597ded1115e66e1988cae0bb_9223370357156288107_rn.jpg",
-            "otherSportTags": null,
-            "otherSportsLogInfo": null,
-            "thirdParty": false
+            "doneDate": "2023-03-24T22:54:47.000Z"
           }
         ]
       },
@@ -119,26 +86,14 @@
         "title": "昨天",
         "logInfos": [
           {
-            "id": "597ded1115e66e1988cae0bb_9223370357197053907_rn",
             "type": "running",
             "name": "户外跑步 5.17 公里",
-            "schema": "keep://runninglogs/597ded1115e66e1988cae0bb_9223370357197053907_rn",
-            "workoutFinishTimes": 0,
             "duration": 1424,
             "distance": 5175,
-            "steps": 0,
             "calorie": 384,
-            "doubtful": false,
-            "subType": "normal",
-            "trainingCourseType": null,
-            "icon": "https://static1.keepcdn.com/infra-cms/2021/8/20/23/32/79214849d54a4c4df7830379af74a37bbe952e55_72x72_e96c9ac7767c059024297f8120c43070edbae68a.png",
             "averagePace": 275.12792120106866,
             "averageSpeed": 13,
-            "doneDate": "2023-03-24T11:35:21.000Z",
-            "trackWaterMark": "https://static1.keepcdn.com/1679657724373_597ded1115e66e1988cae0bb_9223370357197053907_rn.jpg",
-            "otherSportTags": null,
-            "otherSportsLogInfo": null,
-            "thirdParty": false
+            "doneDate": "2023-03-24T11:35:21.000Z"
           }
         ]
       },
@@ -146,26 +101,14 @@
         "title": "3月23日",
         "logInfos": [
           {
-            "id": "597ded1115e66e1988cae0bb_9223370357283386107_rn",
             "type": "running",
             "name": "户外跑步 5.16 公里",
-            "schema": "keep://runninglogs/597ded1115e66e1988cae0bb_9223370357283386107_rn",
-            "workoutFinishTimes": 0,
             "duration": 1493,
             "distance": 5162,
-            "steps": 0,
             "calorie": 384,
-            "doubtful": false,
-            "subType": "normal",
-            "trainingCourseType": null,
-            "icon": "https://static1.keepcdn.com/infra-cms/2021/8/20/23/32/79214849d54a4c4df7830379af74a37bbe952e55_72x72_e96c9ac7767c059024297f8120c43070edbae68a.png",
             "averagePace": 289.1834981520997,
             "averageSpeed": 12.4,
-            "doneDate": "2023-03-23T11:36:29.000Z",
-            "trackWaterMark": "https://static1.keepcdn.com/1679571392156_597ded1115e66e1988cae0bb_9223370357283386107_rn.jpg",
-            "otherSportTags": null,
-            "otherSportsLogInfo": null,
-            "thirdParty": false
+            "doneDate": "2023-03-23T11:36:29.000Z"
           }
         ]
       },
@@ -173,26 +116,14 @@
         "title": "3月22日",
         "logInfos": [
           {
-            "id": "597ded1115e66e1988cae0bb_9223370357368886407_rn",
             "type": "running",
             "name": "户外跑步 5.15 公里",
-            "schema": "keep://runninglogs/597ded1115e66e1988cae0bb_9223370357368886407_rn",
-            "workoutFinishTimes": 0,
             "duration": 1451,
             "distance": 5158,
-            "steps": 0,
             "calorie": 383,
-            "doubtful": false,
-            "subType": "normal",
-            "trainingCourseType": null,
-            "icon": "https://static1.keepcdn.com/infra-cms/2021/8/20/23/32/79214849d54a4c4df7830379af74a37bbe952e55_72x72_e96c9ac7767c059024297f8120c43070edbae68a.png",
             "averagePace": 281.28207381828105,
             "averageSpeed": 12.7,
-            "doneDate": "2023-03-22T11:51:29.000Z",
-            "trackWaterMark": "https://static1.keepcdn.com/1679485894019_597ded1115e66e1988cae0bb_9223370357368886407_rn.jpg",
-            "otherSportTags": null,
-            "otherSportsLogInfo": null,
-            "thirdParty": false
+            "doneDate": "2023-03-22T11:51:29.000Z"
           }
         ]
       },
@@ -200,26 +131,14 @@
         "title": "3月21日",
         "logInfos": [
           {
-            "id": "597ded1115e66e1988cae0bb_9223370357455813307_rn",
             "type": "running",
             "name": "户外跑步 5.23 公里",
-            "schema": "keep://runninglogs/597ded1115e66e1988cae0bb_9223370357455813307_rn",
-            "workoutFinishTimes": 0,
             "duration": 1490,
             "distance": 5233,
-            "steps": 0,
             "calorie": 389,
-            "doubtful": false,
-            "subType": "normal",
-            "trainingCourseType": null,
-            "icon": "https://static1.keepcdn.com/infra-cms/2021/8/20/23/32/79214849d54a4c4df7830379af74a37bbe952e55_72x72_e96c9ac7767c059024297f8120c43070edbae68a.png",
             "averagePace": 284.70443409481345,
             "averageSpeed": 12.6,
-            "doneDate": "2023-03-21T11:42:42.000Z",
-            "trackWaterMark": "https://static1.keepcdn.com/1679398966116_597ded1115e66e1988cae0bb_9223370357455813307_rn.jpg",
-            "otherSportTags": null,
-            "otherSportsLogInfo": null,
-            "thirdParty": false
+            "doneDate": "2023-03-21T11:42:42.000Z"
           }
         ]
       },
@@ -227,26 +146,14 @@
         "title": "3月20日",
         "logInfos": [
           {
-            "id": "597ded1115e66e1988cae0bb_9223370357541918707_rn",
             "type": "running",
             "name": "户外跑步 5.16 公里",
-            "schema": "keep://runninglogs/597ded1115e66e1988cae0bb_9223370357541918707_rn",
-            "workoutFinishTimes": 0,
             "duration": 1487,
             "distance": 5165,
-            "steps": 0,
             "calorie": 383,
-            "doubtful": false,
-            "subType": "normal",
-            "trainingCourseType": null,
-            "icon": "https://static1.keepcdn.com/infra-cms/2021/8/20/23/32/79214849d54a4c4df7830379af74a37bbe952e55_72x72_e96c9ac7767c059024297f8120c43070edbae68a.png",
             "averagePace": 287.86411302339934,
             "averageSpeed": 12.5,
-            "doneDate": "2023-03-20T11:47:37.000Z",
-            "trackWaterMark": "https://static1.keepcdn.com/1679312860031_597ded1115e66e1988cae0bb_9223370357541918707_rn.jpg",
-            "otherSportTags": null,
-            "otherSportsLogInfo": null,
-            "thirdParty": false
+            "doneDate": "2023-03-20T11:47:37.000Z"
           }
         ]
       },
@@ -254,26 +161,14 @@
         "title": "3月19日",
         "logInfos": [
           {
-            "id": "597ded1115e66e1988cae0bb_9223370357634796607_rn",
             "type": "running",
             "name": "户外跑步 5.19 公里",
-            "schema": "keep://runninglogs/597ded1115e66e1988cae0bb_9223370357634796607_rn",
-            "workoutFinishTimes": 0,
             "duration": 1534,
             "distance": 5195,
-            "steps": 0,
             "calorie": 387,
-            "doubtful": false,
-            "subType": "normal",
-            "trainingCourseType": null,
-            "icon": "https://static1.keepcdn.com/infra-cms/2021/8/20/23/32/79214849d54a4c4df7830379af74a37bbe952e55_72x72_e96c9ac7767c059024297f8120c43070edbae68a.png",
             "averagePace": 295.23754510693567,
             "averageSpeed": 12.1,
-            "doneDate": "2023-03-19T09:59:39.000Z",
-            "trackWaterMark": "https://static1.keepcdn.com/1679219982781_597ded1115e66e1988cae0bb_9223370357634796607_rn.jpg",
-            "otherSportTags": null,
-            "otherSportsLogInfo": null,
-            "thirdParty": false
+            "doneDate": "2023-03-19T09:59:39.000Z"
           }
         ]
       },
@@ -281,48 +176,24 @@
         "title": "3月18日",
         "logInfos": [
           {
-            "id": "597ded1115e66e1988cae0bb_9223370357717218207_rn",
             "type": "running",
             "name": "户外跑步 5.19 公里",
-            "schema": "keep://runninglogs/597ded1115e66e1988cae0bb_9223370357717218207_rn",
-            "workoutFinishTimes": 0,
             "duration": 1521,
             "distance": 5199,
-            "steps": 0,
             "calorie": 387,
-            "doubtful": false,
-            "subType": "normal",
-            "trainingCourseType": null,
-            "icon": "https://static1.keepcdn.com/infra-cms/2021/8/20/23/32/79214849d54a4c4df7830379af74a37bbe952e55_72x72_e96c9ac7767c059024297f8120c43070edbae68a.png",
             "averagePace": 292.5100305835852,
             "averageSpeed": 12.3,
-            "doneDate": "2023-03-18T11:05:57.000Z",
-            "trackWaterMark": "https://static1.keepcdn.com/1679137578735_597ded1115e66e1988cae0bb_9223370357717218207_rn.jpg",
-            "otherSportTags": null,
-            "otherSportsLogInfo": null,
-            "thirdParty": false
+            "doneDate": "2023-03-18T11:05:57.000Z"
           },
           {
-            "id": "597ded1115e66e1988cae0bb_9223370357756847507_rn",
             "type": "running",
             "name": "户外跑步 5.16 公里",
-            "schema": "keep://runninglogs/597ded1115e66e1988cae0bb_9223370357756847507_rn",
-            "workoutFinishTimes": 0,
             "duration": 1508,
             "distance": 5161,
-            "steps": 0,
             "calorie": 384,
-            "doubtful": false,
-            "subType": "normal",
-            "trainingCourseType": null,
-            "icon": "https://static1.keepcdn.com/infra-cms/2021/8/20/23/32/79214849d54a4c4df7830379af74a37bbe952e55_72x72_e96c9ac7767c059024297f8120c43070edbae68a.png",
             "averagePace": 292.1858275831895,
             "averageSpeed": 12.3,
-            "doneDate": "2023-03-18T00:05:28.000Z",
-            "trackWaterMark": "https://static1.keepcdn.com/1679097932321_597ded1115e66e1988cae0bb_9223370357756847507_rn.jpg",
-            "otherSportTags": null,
-            "otherSportsLogInfo": null,
-            "thirdParty": false
+            "doneDate": "2023-03-18T00:05:28.000Z"
           }
         ]
       },
@@ -330,26 +201,14 @@
         "title": "3月17日",
         "logInfos": [
           {
-            "id": "597ded1115e66e1988cae0bb_9223370357801196607_rn",
             "type": "running",
             "name": "户外跑步 5.15 公里",
-            "schema": "keep://runninglogs/597ded1115e66e1988cae0bb_9223370357801196607_rn",
-            "workoutFinishTimes": 0,
             "duration": 1520,
             "distance": 5158,
-            "steps": 0,
             "calorie": 385,
-            "doubtful": false,
-            "subType": "normal",
-            "trainingCourseType": null,
-            "icon": "https://static1.keepcdn.com/infra-cms/2021/8/20/23/32/79214849d54a4c4df7830379af74a37bbe952e55_72x72_e96c9ac7767c059024297f8120c43070edbae68a.png",
             "averagePace": 294.65888737801083,
             "averageSpeed": 12.2,
-            "doneDate": "2023-03-17T11:46:19.000Z",
-            "trackWaterMark": "https://static1.keepcdn.com/1679053583025_597ded1115e66e1988cae0bb_9223370357801196607_rn.jpg",
-            "otherSportTags": null,
-            "otherSportsLogInfo": null,
-            "thirdParty": false
+            "doneDate": "2023-03-17T11:46:19.000Z"
           }
         ]
       },
@@ -357,26 +216,14 @@
         "title": "3月16日",
         "logInfos": [
           {
-            "id": "597ded1115e66e1988cae0bb_9223370357887527107_rn",
             "type": "running",
             "name": "户外跑步 5.20 公里",
-            "schema": "keep://runninglogs/597ded1115e66e1988cae0bb_9223370357887527107_rn",
-            "workoutFinishTimes": 0,
             "duration": 1476,
             "distance": 5202,
-            "steps": 0,
             "calorie": 386,
-            "doubtful": false,
-            "subType": "normal",
-            "trainingCourseType": null,
-            "icon": "https://static1.keepcdn.com/infra-cms/2021/8/20/23/32/79214849d54a4c4df7830379af74a37bbe952e55_72x72_e96c9ac7767c059024297f8120c43070edbae68a.png",
             "averagePace": 283.72307559600665,
             "averageSpeed": 12.6,
-            "doneDate": "2023-03-16T11:47:28.000Z",
-            "trackWaterMark": "https://static1.keepcdn.com/1678967252219_597ded1115e66e1988cae0bb_9223370357887527107_rn.jpg",
-            "otherSportTags": null,
-            "otherSportsLogInfo": null,
-            "thirdParty": false
+            "doneDate": "2023-03-16T11:47:28.000Z"
           }
         ]
       },
@@ -384,26 +231,14 @@
         "title": "3月15日",
         "logInfos": [
           {
-            "id": "597ded1115e66e1988cae0bb_9223370357973578107_rn",
             "type": "running",
             "name": "户外跑步 5.15 公里",
-            "schema": "keep://runninglogs/597ded1115e66e1988cae0bb_9223370357973578107_rn",
-            "workoutFinishTimes": 0,
             "duration": 1433,
             "distance": 5157,
-            "steps": 0,
             "calorie": 383,
-            "doubtful": false,
-            "subType": "normal",
-            "trainingCourseType": null,
-            "icon": "https://static1.keepcdn.com/infra-cms/2021/8/20/23/32/79214849d54a4c4df7830379af74a37bbe952e55_72x72_e96c9ac7767c059024297f8120c43070edbae68a.png",
             "averagePace": 277.85474191291314,
             "averageSpeed": 12.9,
-            "doneDate": "2023-03-15T11:53:17.000Z",
-            "trackWaterMark": "https://static1.keepcdn.com/1678881200914_597ded1115e66e1988cae0bb_9223370357973578107_rn.jpg",
-            "otherSportTags": null,
-            "otherSportsLogInfo": null,
-            "thirdParty": false
+            "doneDate": "2023-03-15T11:53:17.000Z"
           }
         ]
       },
@@ -411,26 +246,14 @@
         "title": "3月14日",
         "logInfos": [
           {
-            "id": "597ded1115e66e1988cae0bb_9223370358060600607_rn",
             "type": "running",
             "name": "户外跑步 5.16 公里",
-            "schema": "keep://runninglogs/597ded1115e66e1988cae0bb_9223370358060600607_rn",
-            "workoutFinishTimes": 0,
             "duration": 1477,
             "distance": 5167,
-            "steps": 0,
             "calorie": 384,
-            "doubtful": false,
-            "subType": "normal",
-            "trainingCourseType": null,
-            "icon": "https://static1.keepcdn.com/infra-cms/2021/8/20/23/32/79214849d54a4c4df7830379af74a37bbe952e55_72x72_e96c9ac7767c059024297f8120c43070edbae68a.png",
             "averagePace": 285.8460584001494,
             "averageSpeed": 12.5,
-            "doneDate": "2023-03-14T11:42:55.000Z",
-            "trackWaterMark": "https://static1.keepcdn.com/1678794177582_597ded1115e66e1988cae0bb_9223370358060600607_rn.jpg",
-            "otherSportTags": null,
-            "otherSportsLogInfo": null,
-            "thirdParty": false
+            "doneDate": "2023-03-14T11:42:55.000Z"
           }
         ]
       },
@@ -438,26 +261,14 @@
         "title": "3月13日",
         "logInfos": [
           {
-            "id": "597ded1115e66e1988cae0bb_9223370358147145307_rn",
             "type": "running",
             "name": "户外跑步 5.56 公里",
-            "schema": "keep://runninglogs/597ded1115e66e1988cae0bb_9223370358147145307_rn",
-            "workoutFinishTimes": 0,
             "duration": 1615,
             "distance": 5569,
-            "steps": 0,
             "calorie": 414,
-            "doubtful": false,
-            "subType": "normal",
-            "trainingCourseType": null,
-            "icon": "https://static1.keepcdn.com/infra-cms/2021/8/20/23/32/79214849d54a4c4df7830379af74a37bbe952e55_72x72_e96c9ac7767c059024297f8120c43070edbae68a.png",
             "averagePace": 289.9873708274017,
             "averageSpeed": 12.4,
-            "doneDate": "2023-03-13T11:40:30.000Z",
-            "trackWaterMark": "https://static1.keepcdn.com/1678707633889_597ded1115e66e1988cae0bb_9223370358147145307_rn.jpg",
-            "otherSportTags": null,
-            "otherSportsLogInfo": null,
-            "thirdParty": false
+            "doneDate": "2023-03-13T11:40:30.000Z"
           }
         ]
       },
@@ -465,26 +276,14 @@
         "title": "3月12日",
         "logInfos": [
           {
-            "id": "597ded1115e66e1988cae0bb_9223370358240954307_rn",
             "type": "running",
             "name": "户外跑步 5.16 公里",
-            "schema": "keep://runninglogs/597ded1115e66e1988cae0bb_9223370358240954307_rn",
-            "workoutFinishTimes": 0,
             "duration": 1482,
             "distance": 5166,
-            "steps": 0,
             "calorie": 384,
-            "doubtful": false,
-            "subType": "normal",
-            "trainingCourseType": null,
-            "icon": "https://static1.keepcdn.com/infra-cms/2021/8/20/23/32/79214849d54a4c4df7830379af74a37bbe952e55_72x72_e96c9ac7767c059024297f8120c43070edbae68a.png",
             "averagePace": 286.8216602434694,
             "averageSpeed": 12.5,
-            "doneDate": "2023-03-12T09:37:01.000Z",
-            "trackWaterMark": "https://static1.keepcdn.com/1678613824462_597ded1115e66e1988cae0bb_9223370358240954307_rn.jpg",
-            "otherSportTags": null,
-            "otherSportsLogInfo": null,
-            "thirdParty": false
+            "doneDate": "2023-03-12T09:37:01.000Z"
           }
         ]
       },
@@ -492,48 +291,24 @@
         "title": "3月11日",
         "logInfos": [
           {
-            "id": "597ded1115e66e1988cae0bb_9223370358325262307_rn",
             "type": "running",
             "name": "户外跑步 5.17 公里",
-            "schema": "keep://runninglogs/597ded1115e66e1988cae0bb_9223370358325262307_rn",
-            "workoutFinishTimes": 0,
             "duration": 1534,
             "distance": 5175,
-            "steps": 0,
             "calorie": 386,
-            "doubtful": false,
-            "subType": "normal",
-            "trainingCourseType": null,
-            "icon": "https://static1.keepcdn.com/infra-cms/2021/8/20/23/32/79214849d54a4c4df7830379af74a37bbe952e55_72x72_e96c9ac7767c059024297f8120c43070edbae68a.png",
             "averagePace": 296.4213793817104,
             "averageSpeed": 12.1,
-            "doneDate": "2023-03-11T10:11:53.000Z",
-            "trackWaterMark": "https://static1.keepcdn.com/1678529516258_597ded1115e66e1988cae0bb_9223370358325262307_rn.jpg",
-            "otherSportTags": null,
-            "otherSportsLogInfo": null,
-            "thirdParty": false
+            "doneDate": "2023-03-11T10:11:53.000Z"
           },
           {
-            "id": "597ded1115e66e1988cae0bb_9223370358362488807_rn",
             "type": "running",
             "name": "户外跑步 5.18 公里",
-            "schema": "keep://runninglogs/597ded1115e66e1988cae0bb_9223370358362488807_rn",
-            "workoutFinishTimes": 0,
             "duration": 1486,
             "distance": 5180,
-            "steps": 0,
             "calorie": 385,
-            "doubtful": false,
-            "subType": "normal",
-            "trainingCourseType": null,
-            "icon": "https://static1.keepcdn.com/infra-cms/2021/8/20/23/32/79214849d54a4c4df7830379af74a37bbe952e55_72x72_e96c9ac7767c059024297f8120c43070edbae68a.png",
             "averagePace": 286.8229678700931,
             "averageSpeed": 12.5,
-            "doneDate": "2023-03-10T23:51:27.000Z",
-            "trackWaterMark": "https://static1.keepcdn.com/1678492289379_597ded1115e66e1988cae0bb_9223370358362488807_rn.jpg",
-            "otherSportTags": null,
-            "otherSportsLogInfo": null,
-            "thirdParty": false
+            "doneDate": "2023-03-10T23:51:27.000Z"
           }
         ]
       },
@@ -541,26 +316,14 @@
         "title": "3月9日",
         "logInfos": [
           {
-            "id": "597ded1115e66e1988cae0bb_9223370358492916607_rn",
             "type": "running",
             "name": "户外跑步 5.16 公里",
-            "schema": "keep://runninglogs/597ded1115e66e1988cae0bb_9223370358492916607_rn",
-            "workoutFinishTimes": 0,
             "duration": 1526,
             "distance": 5162,
-            "steps": 0,
             "calorie": 385,
-            "doubtful": false,
-            "subType": "normal",
-            "trainingCourseType": null,
-            "icon": "https://static1.keepcdn.com/infra-cms/2021/8/20/23/32/79214849d54a4c4df7830379af74a37bbe952e55_72x72_e96c9ac7767c059024297f8120c43070edbae68a.png",
             "averagePace": 295.58018747498096,
             "averageSpeed": 12.1,
-            "doneDate": "2023-03-09T11:37:39.000Z",
-            "trackWaterMark": "https://static1.keepcdn.com/1678361861684_597ded1115e66e1988cae0bb_9223370358492916607_rn.jpg",
-            "otherSportTags": null,
-            "otherSportsLogInfo": null,
-            "thirdParty": false
+            "doneDate": "2023-03-09T11:37:39.000Z"
           }
         ]
       },
@@ -568,26 +331,14 @@
         "title": "3月7日",
         "logInfos": [
           {
-            "id": "597ded1115e66e1988cae0bb_9223370358665899307_rn",
             "type": "running",
             "name": "户外跑步 5.21 公里",
-            "schema": "keep://runninglogs/597ded1115e66e1988cae0bb_9223370358665899307_rn",
-            "workoutFinishTimes": 0,
             "duration": 1533,
             "distance": 5211,
-            "steps": 0,
             "calorie": 388,
-            "doubtful": false,
-            "subType": "normal",
-            "trainingCourseType": null,
-            "icon": "https://static1.keepcdn.com/infra-cms/2021/8/20/23/32/79214849d54a4c4df7830379af74a37bbe952e55_72x72_e96c9ac7767c059024297f8120c43070edbae68a.png",
             "averagePace": 294.1290368286908,
             "averageSpeed": 12.2,
-            "doneDate": "2023-03-07T11:34:36.000Z",
-            "trackWaterMark": "https://static1.keepcdn.com/1678188878889_597ded1115e66e1988cae0bb_9223370358665899307_rn.jpg",
-            "otherSportTags": null,
-            "otherSportsLogInfo": null,
-            "thirdParty": false
+            "doneDate": "2023-03-07T11:34:36.000Z"
           }
         ]
       },
@@ -595,1220 +346,56 @@
         "title": "3月6日",
         "logInfos": [
           {
-            "id": "597ded1115e66e1988cae0bb_9223370358751868907_rn",
             "type": "running",
             "name": "户外跑步 5.24 公里",
-            "schema": "keep://runninglogs/597ded1115e66e1988cae0bb_9223370358751868907_rn",
-            "workoutFinishTimes": 0,
             "duration": 1555,
             "distance": 5246,
-            "steps": 0,
             "calorie": 390,
-            "doubtful": false,
-            "subType": "normal",
-            "trainingCourseType": null,
-            "icon": "https://static1.keepcdn.com/infra-cms/2021/8/20/23/32/79214849d54a4c4df7830379af74a37bbe952e55_72x72_e96c9ac7767c059024297f8120c43070edbae68a.png",
             "averagePace": 296.3839362696298,
             "averageSpeed": 12.1,
-            "doneDate": "2023-03-06T11:41:46.000Z",
-            "trackWaterMark": "https://static1.keepcdn.com/1678102909758_597ded1115e66e1988cae0bb_9223370358751868907_rn.jpg",
-            "otherSportTags": null,
-            "otherSportsLogInfo": null,
-            "thirdParty": false
+            "doneDate": "2023-03-06T11:41:46.000Z"
           }
         ]
       }
-    ],
-    "lastPage": false,
-    "lastPageToken": "20230306.597ded1115e66e1988cae0bb_9223370358751868907_rn.false.true",
-    "maxShowCount": 5
+    ]
   },
   "statsInfo": {
-    "type": "line",
-    "renderType": null,
-    "failoverTitle": null,
-    "page": {
-      "title": "2017年至2023年",
-      "bindKitBit": false,
-      "unit": "公里",
-      "color": "#24C789",
-      "stats": [
-        {
-          "name": "里程",
-          "value": "2482.74",
-          "unit": "公里"
-        },
-        {
-          "name": "消耗",
-          "value": "186,872",
-          "unit": "千卡"
-        },
-        {
-          "name": "平均配速",
-          "value": "05'18''",
-          "unit": ""
-        },
-        {
-          "name": "时长",
-          "value": "219:50:57",
-          "unit": ""
-        },
-        {
-          "name": "完成",
-          "value": "497",
-          "unit": "次"
-        }
-      ],
-      "stepInfo": null,
-      "list": [
-        {
-          "title": "2017年至2023年",
-          "name": "今日",
-          "value": 2482.74,
-          "formatValue": "2482.74 公里",
-          "date": "20230325",
-          "stats": [
-            {
-              "name": "里程",
-              "value": "2482.74",
-              "unit": "公里"
-            },
-            {
-              "name": "消耗",
-              "value": "186,872",
-              "unit": "千卡"
-            },
-            {
-              "name": "平均配速",
-              "value": "05'18''",
-              "unit": ""
-            },
-            {
-              "name": "时长",
-              "value": "219:50:57",
-              "unit": ""
-            },
-            {
-              "name": "完成",
-              "value": "497",
-              "unit": "次"
-            }
-          ]
-        },
-        {
-          "value": 2477.57
-        },
-        {
-          "value": 2472.39
-        },
-        {
-          "value": 2467.23
-        },
-        {
-          "value": 2462.07
-        },
-        {
-          "value": 2456.83
-        },
-        {
-          "value": 2451.67
-        },
-        {
-          "value": 2446.47
-        },
-        {
-          "value": 2436.11
-        },
-        {
-          "value": 2430.95
-        },
-        {
-          "value": 2425.75
-        },
-        {
-          "value": 2420.59
-        },
-        {
-          "value": 2415.43
-        },
-        {
-          "value": 2409.86
-        },
-        {
-          "value": 2404.69
-        },
-        {
-          "value": 2394.33
-        },
-        {
-          "value": 2394.33
-        },
-        {
-          "value": 2389.17
-        },
-        {
-          "value": 2389.17
-        },
-        {
-          "value": 2383.96
-        },
-        {
-          "value": 2378.71
-        },
-        {
-          "value": 2373.49
-        },
-        {
-          "value": 2363.11
-        },
-        {
-          "value": 2357.94
-        },
-        {
-          "value": 2352.77
-        },
-        {
-          "value": 2352.77
-        },
-        {
-          "value": 2347.2
-        },
-        {
-          "value": 2341.66
-        },
-        {
-          "value": 2331.63
-        },
-        {
-          "value": 2321.22
-        },
-        {
-          "value": 2316.06
-        },
-        {
-          "value": 2310.91
-        },
-        {
-          "value": 2305.71
-        },
-        {
-          "value": 2300.6
-        },
-        {
-          "value": 2295.42
-        },
-        {
-          "value": 2290.22
-        },
-        {
-          "value": 2279.96
-        },
-        {
-          "value": 2274.8
-        },
-        {
-          "value": 2269.6
-        },
-        {
-          "value": 2264.41
-        },
-        {
-          "value": 2259.31
-        },
-        {
-          "value": 2259.31
-        },
-        {
-          "value": 2254.07
-        },
-        {
-          "value": 2248.9
-        },
-        {
-          "value": 2243.75
-        },
-        {
-          "value": 2238.66
-        },
-        {
-          "value": 2233.56
-        },
-        {
-          "value": 2228.43
-        },
-        {
-          "value": 2223.26
-        },
-        {
-          "value": 2218.07
-        },
-        {
-          "value": 2218.07
-        },
-        {
-          "value": 2212.87
-        },
-        {
-          "value": 2207.74
-        },
-        {
-          "value": 2202.59
-        },
-        {
-          "value": 2202.59
-        },
-        {
-          "value": 2197.46
-        },
-        {
-          "value": 2192.3
-        },
-        {
-          "value": 2187.13
-        },
-        {
-          "value": 2181.93
-        },
-        {
-          "value": 2181.93
-        },
-        {
-          "value": 2181.93
-        },
-        {
-          "value": 2181.93
-        },
-        {
-          "value": 2181.93
-        },
-        {
-          "value": 2181.93
-        },
-        {
-          "value": 2181.93
-        },
-        {
-          "value": 2181.93
-        },
-        {
-          "value": 2181.93
-        },
-        {
-          "value": 2181.93
-        },
-        {
-          "value": 2181.93
-        },
-        {
-          "value": 2181.93
-        },
-        {
-          "value": 2176.71
-        },
-        {
-          "value": 2171.48
-        },
-        {
-          "value": 2171.48
-        },
-        {
-          "value": 2166.29
-        },
-        {
-          "value": 2166.29
-        },
-        {
-          "value": 2161.23
-        },
-        {
-          "value": 2161.23
-        },
-        {
-          "value": 2155.98
-        },
-        {
-          "value": 2150.88
-        },
-        {
-          "value": 2145.73
-        },
-        {
-          "value": 2140.55
-        },
-        {
-          "value": 2135.33
-        },
-        {
-          "value": 2135.33
-        },
-        {
-          "value": 2130.14
-        },
-        {
-          "value": 2130.14
-        },
-        {
-          "value": 2130.14
-        },
-        {
-          "value": 2130.14
-        },
-        {
-          "value": 2124.9
-        },
-        {
-          "value": 2119.66
-        },
-        {
-          "value": 2114.47
-        },
-        {
-          "value": 2109.28
-        },
-        {
-          "value": 2104.11
-        },
-        {
-          "value": 2098.97
-        },
-        {
-          "value": 2098.97
-        },
-        {
-          "value": 2093.84
-        },
-        {
-          "value": 2093.84
-        },
-        {
-          "value": 2088.63
-        },
-        {
-          "value": 2083.37
-        },
-        {
-          "value": 2078.24
-        },
-        {
-          "value": 2073.12
-        },
-        {
-          "value": 2073.12
-        },
-        {
-          "value": 2073.12
-        },
-        {
-          "value": 2067.89
-        },
-        {
-          "value": 2062.73
-        },
-        {
-          "value": 2057.5
-        },
-        {
-          "value": 2052.37
-        },
-        {
-          "value": 2047.19
-        },
-        {
-          "value": 2042.04
-        },
-        {
-          "value": 2036.87
-        },
-        {
-          "value": 2031.73
-        },
-        {
-          "value": 2026.56
-        },
-        {
-          "value": 2021.4
-        },
-        {
-          "value": 2016.26
-        },
-        {
-          "value": 2011.11
-        },
-        {
-          "value": 2005.97
-        },
-        {
-          "value": 2000.8
-        },
-        {
-          "value": 1995.61
-        },
-        {
-          "value": 1990.4
-        },
-        {
-          "value": 1985.22
-        },
-        {
-          "value": 1980.06
-        },
-        {
-          "value": 1974.91
-        },
-        {
-          "value": 1969.77
-        },
-        {
-          "value": 1964.55
-        },
-        {
-          "value": 1959.4
-        },
-        {
-          "value": 1954.26
-        },
-        {
-          "value": 1954.26
-        },
-        {
-          "value": 1954.26
-        },
-        {
-          "value": 1949.15
-        },
-        {
-          "value": 1944.06
-        },
-        {
-          "value": 1938.91
-        },
-        {
-          "value": 1933.73
-        },
-        {
-          "value": 1928.58
-        },
-        {
-          "value": 1923.42
-        },
-        {
-          "value": 1918.33
-        },
-        {
-          "value": 1913.15
-        },
-        {
-          "value": 1908.02
-        },
-        {
-          "value": 1902.93
-        },
-        {
-          "value": 1897.83
-        },
-        {
-          "value": 1897.83
-        },
-        {
-          "value": 1892.7
-        },
-        {
-          "value": 1892.7
-        },
-        {
-          "value": 1892.7
-        },
-        {
-          "value": 1892.7
-        },
-        {
-          "value": 1892.7
-        },
-        {
-          "value": 1892.7
-        },
-        {
-          "value": 1892.7
-        },
-        {
-          "value": 1892.7
-        },
-        {
-          "value": 1892.7
-        },
-        {
-          "value": 1887.66
-        },
-        {
-          "value": 1882.56
-        },
-        {
-          "value": 1877.46
-        },
-        {
-          "value": 1872.35
-        },
-        {
-          "value": 1872.35
-        },
-        {
-          "value": 1872.35
-        },
-        {
-          "value": 1867.23
-        },
-        {
-          "value": 1862.14
-        },
-        {
-          "value": 1856.99
-        },
-        {
-          "value": 1856.99
-        },
-        {
-          "value": 1851.85
-        },
-        {
-          "value": 1851.85
-        },
-        {
-          "value": 1851.85
-        },
-        {
-          "value": 1851.85
-        },
-        {
-          "value": 1846.75
-        },
-        {
-          "value": 1846.75
-        },
-        {
-          "value": 1846.75
-        },
-        {
-          "value": 1846.75
-        },
-        {
-          "value": 1846.75
-        },
-        {
-          "value": 1846.75
-        },
-        {
-          "value": 1846.75
-        },
-        {
-          "value": 1841.59
-        },
-        {
-          "value": 1836.43
-        },
-        {
-          "value": 1836.43
-        },
-        {
-          "value": 1836.43
-        },
-        {
-          "value": 1836.43
-        },
-        {
-          "value": 1836.43
-        },
-        {
-          "value": 1836.43
-        },
-        {
-          "value": 1836.43
-        },
-        {
-          "value": 1831.37
-        },
-        {
-          "value": 1831.37
-        },
-        {
-          "value": 1831.37
-        },
-        {
-          "value": 1831.37
-        },
-        {
-          "value": 1831.37
-        },
-        {
-          "value": 1830.13
-        },
-        {
-          "value": 1824.91
-        },
-        {
-          "value": 1824.91
-        },
-        {
-          "value": 1819.74
-        },
-        {
-          "value": 1814.59
-        },
-        {
-          "value": 1809.32
-        },
-        {
-          "value": 1804.08
-        },
-        {
-          "value": 1798.89
-        },
-        {
-          "value": 1793.73
-        },
-        {
-          "value": 1788.41
-        },
-        {
-          "value": 1783.21
-        },
-        {
-          "value": 1778
-        },
-        {
-          "value": 1772.79
-        },
-        {
-          "value": 1767.61
-        },
-        {
-          "value": 1762.4
-        },
-        {
-          "value": 1757.24
-        },
-        {
-          "value": 1752.07
-        },
-        {
-          "value": 1752.07
-        },
-        {
-          "value": 1746.89
-        },
-        {
-          "value": 1741.69
-        },
-        {
-          "value": 1736.48
-        },
-        {
-          "value": 1731.33
-        },
-        {
-          "value": 1731.33
-        },
-        {
-          "value": 1726.19
-        },
-        {
-          "value": 1721.03
-        },
-        {
-          "value": 1715.89
-        },
-        {
-          "value": 1710.75
-        },
-        {
-          "value": 1705.59
-        },
-        {
-          "value": 1700.43
-        },
-        {
-          "value": 1695.24
-        },
-        {
-          "value": 1690.12
-        },
-        {
-          "value": 1690.12
-        },
-        {
-          "value": 1684.99
-        },
-        {
-          "value": 1679.82
-        },
-        {
-          "value": 1674.65
-        },
-        {
-          "value": 1674.65
-        },
-        {
-          "value": 1669.51
-        },
-        {
-          "value": 1664.42
-        },
-        {
-          "value": 1664.42
-        },
-        {
-          "value": 1664.42
-        },
-        {
-          "value": 1664.42
-        },
-        {
-          "value": 1664.42
-        },
-        {
-          "value": 1659.31
-        },
-        {
-          "value": 1659.31
-        },
-        {
-          "value": 1659.31
-        },
-        {
-          "value": 1654.19
-        },
-        {
-          "value": 1654.19
-        },
-        {
-          "value": 1654.19
-        },
-        {
-          "value": 1649.04
-        },
-        {
-          "value": 1643.88
-        },
-        {
-          "value": 1638.74
-        },
-        {
-          "value": 1633.63
-        },
-        {
-          "value": 1633.63
-        },
-        {
-          "value": 1633.63
-        },
-        {
-          "value": 1628.5
-        },
-        {
-          "value": 1623.32
-        },
-        {
-          "value": 1618.17
-        },
-        {
-          "value": 1613.11
-        },
-        {
-          "value": 1608
-        },
-        {
-          "value": 1608
-        },
-        {
-          "value": 1602.86
-        },
-        {
-          "value": 1602.86
-        },
-        {
-          "value": 1597.69
-        },
-        {
-          "value": 1592.54
-        },
-        {
-          "value": 1592.54
-        },
-        {
-          "value": 1587.41
-        },
-        {
-          "value": 1582.37
-        },
-        {
-          "value": 1577.22
-        },
-        {
-          "value": 1577.22
-        },
-        {
-          "value": 1572.06
-        },
-        {
-          "value": 1566.91
-        },
-        {
-          "value": 1561.79
-        },
-        {
-          "value": 1556.64
-        },
-        {
-          "value": 1556.64
-        },
-        {
-          "value": 1551.52
-        },
-        {
-          "value": 1551.52
-        },
-        {
-          "value": 1546.33
-        },
-        {
-          "value": 1541.17
-        },
-        {
-          "value": 1536.05
-        },
-        {
-          "value": 1530.93
-        },
-        {
-          "value": 1525.76
-        },
-        {
-          "value": 1520.56
-        },
-        {
-          "value": 1520.56
-        },
-        {
-          "value": 1515.41
-        },
-        {
-          "value": 1515.41
-        },
-        {
-          "value": 1515.41
-        },
-        {
-          "value": 1515.41
-        },
-        {
-          "value": 1515.41
-        },
-        {
-          "value": 1510.25
-        },
-        {
-          "value": 1505.07
-        },
-        {
-          "value": 1499.96
-        },
-        {
-          "value": 1494.84
-        },
-        {
-          "value": 1489.68
-        },
-        {
-          "value": 1484.51
-        },
-        {
-          "value": 1479.36
-        },
-        {
-          "value": 1479.36
-        },
-        {
-          "value": 1474.22
-        },
-        {
-          "value": 1469.07
-        },
-        {
-          "value": 1463.93
-        },
-        {
-          "value": 1463.93
-        },
-        {
-          "value": 1458.78
-        },
-        {
-          "value": 1453.68
-        },
-        {
-          "value": 1453.68
-        },
-        {
-          "value": 1453.68
-        },
-        {
-          "value": 1453.68
-        },
-        {
-          "value": 1448.54
-        },
-        {
-          "value": 1443.36
-        },
-        {
-          "value": 1438.25
-        },
-        {
-          "value": 1433.09
-        },
-        {
-          "value": 1427.96
-        },
-        {
-          "value": 1427.96
-        },
-        {
-          "value": 1427.96
-        },
-        {
-          "value": 1422.81
-        },
-        {
-          "value": 1417.68
-        },
-        {
-          "value": 1412.54
-        },
-        {
-          "value": 1407.43
-        },
-        {
-          "value": 1403.22
-        },
-        {
-          "value": 1403.22
-        },
-        {
-          "value": 1398.11
-        },
-        {
-          "value": 1392.88
-        },
-        {
-          "value": 1392.88
-        },
-        {
-          "value": 1392.88
-        },
-        {
-          "value": 1387.76
-        },
-        {
-          "value": 1382.64
-        },
-        {
-          "value": 1377.52
-        },
-        {
-          "value": 1372.4
-        },
-        {
-          "value": 1367.13
-        },
-        {
-          "value": 1361.9
-        },
-        {
-          "value": 1356.75
-        },
-        {
-          "value": 1351.74
-        },
-        {
-          "value": 1346.6
-        },
-        {
-          "value": 1341.46
-        },
-        {
-          "value": 1336.33
-        },
-        {
-          "value": 1331.19
-        },
-        {
-          "value": 1331.19
-        },
-        {
-          "value": 1331.19
-        },
-        {
-          "value": 1331.19
-        },
-        {
-          "value": 1331.19
-        },
-        {
-          "value": 1326.06
-        },
-        {
-          "value": 1326.06
-        },
-        {
-          "value": 1315.8
-        },
-        {
-          "value": 1315.8
-        },
-        {
-          "value": 1305.77
-        },
-        {
-          "value": 1300.61
-        },
-        {
-          "value": 1300.61
-        },
-        {
-          "value": 1300.61
-        },
-        {
-          "value": 1300.61
-        },
-        {
-          "value": 1300.61
-        },
-        {
-          "value": 1300.61
-        },
-        {
-          "value": 1300.61
-        },
-        {
-          "value": 1300.61
-        },
-        {
-          "value": 1300.61
-        },
-        {
-          "value": 1300.61
-        },
-        {
-          "value": 1300.61
-        },
-        {
-          "value": 1295.44
-        },
-        {
-          "value": 1290.21
-        },
-        {
-          "value": 1290.21
-        },
-        {
-          "value": 1290.21
-        },
-        {
-          "value": 1290.21
-        },
-        {
-          "value": 1290.21
-        },
-        {
-          "value": 1290.21
-        },
-        {
-          "value": 1285.09
-        },
-        {
-          "value": 1285.09
-        },
-        {
-          "value": 1285.09
-        },
-        {
-          "value": 1279.98
-        },
-        {
-          "value": 1279.98
-        },
-        {
-          "value": 1274.9
-        },
-        {
-          "value": 1274.9
-        },
-        {
-          "value": 1264.81
-        },
-        {
-          "value": 1264.81
-        },
-        {
-          "value": 1259.77
-        },
-        {
-          "value": 1254.62
-        },
-        {
-          "value": 1249.53
-        },
-        {
-          "value": 1244.42
-        },
-        {
-          "value": 1239.3
-        },
-        {
-          "value": 1239.3
-        },
-        {
-          "value": 1239.3
-        },
-        {
-          "value": 1234.18
-        },
-        {
-          "value": 1234.18
-        },
-        {
-          "value": 1234.18
-        },
-        {
-          "value": 1234.18
-        },
-        {
-          "value": 1234.18
-        },
-        {
-          "value": 1234.18
-        },
-        {
-          "name": "2022/3/25",
-          "value": 1234.18
-        }
-      ],
-      "deviceInfo": null
-    },
-    "pages": null,
-    "lastPage": true,
-    "lastPageToken": null
+    "title": "2017年至2023年",
+    "stats": [
+      {
+        "name": "里程",
+        "value": "2482.74",
+        "unit": "公里"
+      },
+      {
+        "name": "消耗",
+        "value": "186,872",
+        "unit": "千卡"
+      },
+      {
+        "name": "平均配速",
+        "value": "05'18''",
+        "unit": ""
+      },
+      {
+        "name": "时长",
+        "value": "219:50:57",
+        "unit": ""
+      },
+      {
+        "name": "完成",
+        "value": "497",
+        "unit": "次"
+      }
+    ]
   },
   "trendInfo": {
     "title": "数据趋势",
-    "type": "running",
-    "v3TrendType": "TREND_RUNNING",
     "cards": [
       {
         "type": "runningOverview",
         "name": "跑步",
         "category": "compareB",
-        "icon": "https://static1.keepcdn.com/infra-cms/2021/7/14/21/43/79214849d54a4c4df7830379af74a37bbe952e55_72x72_483150ecf57d2d5303536e80b2de4b1cd9b63bf1.png",
-        "schema": "keep://datacenter?type=running&period=all&version=v2",
         "data": {
           "trend": "本月到目前为止，跑步里程比上月多",
           "unit": "公里",
@@ -1882,8 +469,6 @@
         "type": "runningPaceChange",
         "name": "跑步",
         "category": "paceChange",
-        "icon": "https://static1.keepcdn.com/infra-cms/2021/7/14/21/43/79214849d54a4c4df7830379af74a37bbe952e55_72x72_483150ecf57d2d5303536e80b2de4b1cd9b63bf1.png",
-        "schema": "keep://datacenter?type=running&period=all&version=v2",
         "data": {
           "trend": "最近 5 次跑步，最快配速为 04'35''",
           "color": "#24C789",
